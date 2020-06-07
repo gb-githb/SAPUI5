@@ -1,6 +1,6 @@
 * To Start with SAPUI5 Application , we need to first load SAPUI5 Libraries and Initialise it.
 * Process of loading and initialising the libraries is called as Bootstrapping
-* id="sap-ui-bootstap" 
+* ```id="sap-ui-bootstap"``` 
   * ID for the script
 * src="https://openui5.hana.ondemand.com/resources/sap-ui-core.js" 
   * Tells Browser from where to load the Javascript Library
