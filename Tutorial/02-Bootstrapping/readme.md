@@ -9,7 +9,7 @@
   * Tells Browser from where to load the Javascript Library
 
 * ```data-sap-ui-theme="sap_belize"```
-  * Default themer for UI5 Application
+  * Default theme for UI5 Application
 
 * ```data-sap-ui-compatVersion="edge"```
   * make use of the most recent functionality of SAPUI5 we define the compatibility version as edge
