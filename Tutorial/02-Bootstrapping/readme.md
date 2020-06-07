@@ -2,7 +2,7 @@
 * Process of loading and initialising the libraries is called as Bootstrapping
 * ```id="sap-ui-bootstap"``` 
   * ID for the script
-* src="https://openui5.hana.ondemand.com/resources/sap-ui-core.js" 
+* ```src="https://openui5.hana.ondemand.com/resources/sap-ui-core.js" 
   * Tells Browser from where to load the Javascript Library
 * data-sap-ui-theme="sap_belize"
   * Default themer for UI5 Application
